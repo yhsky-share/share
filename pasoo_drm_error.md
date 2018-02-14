@@ -5,7 +5,7 @@
 "앗! 이런!" 오류
 크롬 고객센터에서 찾아보면
 '앗, 이런!': Chrome에서 페이지를 로드하는 데 문제가 있습니다. 
-Link: https://support.google.com/chrome/answer/95669?co=GENIE.Platform%3DDesktop&hl=ko 이라고 나옵니다
+https://support.google.com/chrome/answer/95669?co=GENIE.Platform%3DDesktop&hl=ko 이라고 나옵니다
  </pre>
 ------------------------------------------------------------------
 
