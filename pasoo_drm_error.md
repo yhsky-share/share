@@ -1,12 +1,13 @@
 크롬 오류 해결 방법
+(chrome error)
 ===================
 
 <pre> 
 "앗! 이런!" 오류
 크롬 고객센터에서 찾아보면
 '앗, 이런!': Chrome에서 페이지를 로드하는 데 문제가 있습니다. 
-https://support.google.com/chrome/answer/95669?co=GENIE.Platform%3DDesktop&hl=ko
  </pre>
+ chrome url : https://support.google.com/chrome/answer/95669?co=GENIE.Platform%3DDesktop&hl=ko
 
 ## 해결 방법 
 url : https://productforums.google.com/forum/#!topic/chrome-ko/eLlUGcf7xUw;context-place=forum/chrome-ko
